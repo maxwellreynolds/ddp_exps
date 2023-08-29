@@ -1,3 +1,6 @@
+# https://amsword.medium.com/gradient-backpropagation-with-torch-distributed-all-gather-9f3941a381f8
+# https://github.com/pytorch/examples/blob/main/distributed/ddp-tutorial-series/multigpu.py
+
 import torch
 import torch.nn.functional as F
 from torch.utils.data import Dataset, DataLoader
